@@ -35,6 +35,6 @@ If you have any questions or need help, feel free to reach out!
 This project is my final capstone project for the GoIt Python Pro course. It is a personal project that I developed entirely on my own, focusing on back-end development using Python and Django. If you have any questions or would like to connect, you can reach me via the contact details below.
 
 My contacts:
-Telegram:@mmxcyed9
-Instagram:mmxcyed
-WhatsApp:+4915252343249
+Telegram:@mmxcyed9,
+Instagram:mmxcyed,
+WhatsApp:+4915252343249.
