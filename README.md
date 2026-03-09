@@ -19,16 +19,12 @@ Instructions to run the project locally
 
 1)Clone the repository:
 git clone <your-repo-url>
-
 2)Navigate to the project folder:
 cd <project-folder-name>
-
 3)Install dependencies:
 pip install -r requirements.txt
-
 4)Run database migrations:
 python manage.py migrate
-
 5)Start the development server:
 python manage.py runserver
 
