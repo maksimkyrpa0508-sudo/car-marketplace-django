@@ -1,5 +1,4 @@
 # car-marketplace-django
-# Car Marketplace (Django)
 
 This is a web application where users can:
 
