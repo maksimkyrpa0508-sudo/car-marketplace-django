@@ -1,5 +1,6 @@
 #car-marketplace-django
 
+This project is a car sales website. On the home page, you will find popular listings and recently added cars. You can use the search to find a vehicle that fits your preferences. There's also a News section with updates, a Help section to contact support, and an option to add your own listing. The site uses a light, white theme.
 This is a web application where users can:
 
 Register and log in
