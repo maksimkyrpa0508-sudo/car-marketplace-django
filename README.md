@@ -1,2 +1,16 @@
 # car-marketplace-django
-Car marketplace web application built with Django. Users can register, create and manage car advertisements.
+# Car Marketplace (Django)
+
+This is a web application where users can:
+
+- register and login
+- create car listings
+- edit and delete listings
+- view cars from other users
+- manage their profile
+
+Tech stack:
+- Python
+- Django
+- SQLite
+- HTML / CSS
